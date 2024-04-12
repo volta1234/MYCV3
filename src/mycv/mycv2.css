@@ -1,0 +1,36 @@
+.container-fluid {
+    border: 2px solid #ccc; /* Add grey border to the main container */
+  }
+
+  .bg-black {
+    background-color: #000;
+  }
+
+  /* .tag-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  } */
+
+  /* .tag {
+    background-color: #af8bc7;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+  } */
+
+  /* .border-light-purple {
+    border: 2px solid #af8bc7;
+  } */
+
+  .border-light-gray {
+    border-color: #17030313;
+  }
+
+  .text-light-purple {
+    color: #bc20ad;
+  }
+
+  .card-header {
+    border-bottom: 1px solid #af8bc7; /* Add underline */
+  }
