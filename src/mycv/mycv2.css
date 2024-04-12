@@ -1,27 +1,17 @@
-.container-fluid {
-    border: 2px solid #ccc; /* Add grey border to the main container */
-  }
+.body {
+  margin-bottom: 1px solid grey;
+}
 
   .bg-black {
     background-color: #000;
   }
-
-  /* .tag-container {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-  } */
-
-  /* .tag {
-    background-color: #af8bc7;
-    color: #fff;
-    padding: 5px 10px;
-    border-radius: 5px;
-  } */
-
-  /* .border-light-purple {
-    border: 2px solid #af8bc7;
-  } */
+  .row{
+    margin: 20px;
+    border: solid rgb(64, 61, 61);
+  }
+  .title {
+    border-bottom: 1px solid grey;
+  }
 
   .border-light-gray {
     border-color: #17030313;
@@ -32,5 +22,5 @@
   }
 
   .card-header {
-    border-bottom: 1px solid #af8bc7; /* Add underline */
+    border-bottom: 1px solid grey; /* Add underline */
   }
